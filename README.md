@@ -25,4 +25,8 @@ About Me 👨‍💻<br>Hi! I'm Mohammad Faizan Shaikh, a passionate Mobile Appl
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/skfaizan23c) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake animation" />
+
+###
