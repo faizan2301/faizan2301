@@ -21,6 +21,13 @@ About Me 👨‍💻<br>Hi! I'm Mohammad Faizan Shaikh, a passionate Mobile Appl
 ---
 [![](https://visitcount.itsvg.in/api?id=faizan2301&icon=2&color=5)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake animation" />
+
+###
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/skfaizan23c) 
 
