@@ -31,7 +31,4 @@ About Me 👨‍💻<br>Hi! I'm Mohammad Faizan Shaikh, a passionate Mobile Appl
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/skfaizan23c) 
 
-  
-<br><br><center><a href="http://www.thegamehomepage.com/play/the-stupidity-test/" target="_blank" title="The 
-Stupidity Test"><img src="http://www.thegamehomepage.com/stupidity/70.gif"></a><br><br></center>
 
