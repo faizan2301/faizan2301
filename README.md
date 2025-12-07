@@ -144,8 +144,6 @@ const faizan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Rocket" width="30" /> Featured Projects
-
 <table>
 <tr>
   <td width="50%">
