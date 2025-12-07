@@ -55,7 +55,7 @@ const faizan = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan2301&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="320"/>
+
 
 - 🔭 **Currently working at** [Khedmah Delivery](https://play.google.com/store/apps/details?id=com.springtech.orderApp) as Frontend Engineer
 - 🌱 **Learning** advanced geolocation, optimized routes & live tracking
@@ -144,6 +144,8 @@ const faizan = {
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Featured Projects
+
 <table>
 <tr>
   <td width="50%">
@@ -223,7 +225,7 @@ const faizan = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=faizan2301&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan2301&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
@@ -250,13 +252,7 @@ const faizan = {
 ---
 
 <!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizan2301/faizan2301/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" width="100%" />
-  </picture>
-</div>
+<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake animation" />
 
 ---
 
