@@ -50,7 +50,7 @@ const faizan = {
     
     architecture: ["MVVM", "MVC", "MVP", "Clean Architecture"],
     
-    currentlyLearning: "Advanced geolocation & real-time tracking",
+    passionateAbout: "Turning complex ideas into elegant mobile experiences",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
