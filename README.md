@@ -14,7 +14,7 @@
   <a href="https://instagram.com/_faizii_143">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://engineer-faizan-shaikh.vercel.app">
+  <a href="https://www.faizanshaikh.dev/">
     <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:skfaizan2301@gmail.com">
