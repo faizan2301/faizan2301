@@ -1,273 +1,182 @@
 <div align="center">
-  
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mohammad%20Faizan%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+seamless+mobile+experiences+%F0%9F%93%B1;Flutter+%7C+React+Native+%7C+Node.js+Developer+%F0%9F%9A%80;3%2B+Years+of+Crafting+User-Centric+Apps+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=160&section=header&text=EMF.&fontSize=70&fontColor=00ff88&fontAlignY=40&desc=Mohammad%20Faizan%20Shaikh&descAlignY=68&descSize=18&descColor=e0e0e0" width="100%"/>
 
-<!-- Social Badges -->
+<img src="https://img.shields.io/badge/%E2%97%8F_AVAILABLE_FOR_OPS-00ff88?style=flat-square&labelColor=0a0a0f&color=00ff88" alt="Available for ops"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2800&pause=1200&color=00FF88&center=true&vCenter=true&width=700&height=45&lines=Frontend+Engineer+%26+Mobile+Developer;React+Native+%7C+Flutter+%7C+Full+Stack;Building+for+Oman+%26+the+Gulf" alt="Typing animation"/>
+
 <p>
+  Crafting seamless mobile experiences with <b>Flutter</b>, <b>React Native</b>,<br/>
+  and modern web tech for Oman &amp; the Gulf.
+</p>
+
+<p>
+  <a href="https://www.faizanshaikh.dev">
+    <img src="https://img.shields.io/badge/Portfolio-faizanshaikh.dev-0a0a0f?style=flat-square&logo=vercel&logoColor=00ff88&labelColor=0a0a0f" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/engineerfaizanshaikh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-engineerfaizanshaikh-0a0a0f?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0a0a0f" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/_faizii_143">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="mailto:hello@faizanshaikh.dev">
+    <img src="https://img.shields.io/badge/Email-hello@faizanshaikh.dev-0a0a0f?style=flat-square&logo=gmail&logoColor=ff00ff&labelColor=0a0a0f" alt="Email"/>
   </a>
-  <a href="https://www.faizanshaikh.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:skfaizan2301@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/faizan2301">
+    <img src="https://img.shields.io/badge/GitHub-faizan2301-0a0a0f?style=flat-square&logo=github&logoColor=e0e0e0&labelColor=0a0a0f" alt="GitHub"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=faizan2301&style=for-the-badge&color=667eea" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=faizan2301&style=flat-square&color=00ff88" alt="Profile views"/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## `//` About
 
-```javascript
+> M.E. Computer Science graduate · Frontend Engineer at [Khedmah Delivery](https://play.google.com/store/apps/details?id=com.springtech.orderApp)  
+> React Native & Flutter developer building iOS, Android, and full-stack apps for clients across Oman and the Gulf.
+
+```ts
 const faizan = {
-    role: "Mobile Application Developer",
-    location: "India 🇮🇳",
-    education: "M.E. Computer Science & Engineering",
-    experience: "3+ years",
-    currentFocus: "Building scalable mobile solutions",
-    
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
-    
-    techStack: {
-        mobile: ["Flutter", "React Native", "Java", "Kotlin"],
-        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-        tools: ["Firebase", "Git", "Docker", "Postman"]
-    },
-    
-    architecture: ["MVVM", "MVC", "MVP", "Clean Architecture"],
-    
-    passionateAbout: "Turning complex ideas into elegant mobile experiences",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+  role: "Frontend Engineer & Mobile Developer",
+  location: "Serving Oman & Gulf // Remote",
+  experience: "3+ years",
+  stack: ["React Native", "Flutter", "TypeScript", "Node.js"],
+  focus: "Turning ideas into production apps",
 };
 ```
 
-
-
-- 🔭 **Currently working at** [Khedmah Delivery](https://play.google.com/store/apps/details?id=com.springtech.orderApp) as Frontend Engineer
-- 🌱 **Learning** advanced geolocation, optimized routes & live tracking
-- 💼 **Experience** in product-based & service-based companies
-- 🎯 **Expertise** in building cross-platform mobile applications
-- 🤝 **Open to** collaborations on innovative mobile projects
-- ⚡ **Fun fact:** "The best way to predict the future is to create it."
-
-<br clear="both"/>
+- Currently shipping features & stability improvements at **Khedmah Delivery**
+- Learning advanced geolocation, optimized routes & live tracking
+- Open to collaborations on impactful mobile & web products
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Arsenal
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Frontend Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-</details>
-
-<details>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Deployment</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-</details>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Featured Projects
+## `//` Skills & Technologies
 
 <table>
 <tr>
-  <td width="50%">
-    <h3 align="center">🍔 Khedmah Delivery</h3>
-    <p align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.springtech.orderApp">
-        <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-      <a href="https://apps.apple.com/om/app/khedmah-delivery/id6738427748">
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
-      </a>
-    </p>
-    <p align="center">
-      Multi-service food delivery platform with dine-out & pickup options. Working on bug fixes, feature implementation & UI enhancements.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">📍 M-Attendance</h3>
-    <p align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.attendance.mokshasolutions">
-        <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-      <a href="https://apps.apple.com/bn/app/m-attendance/id6443842046">
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
-      </a>
-    </p>
-    <p align="center">
-      Real-time attendance tracking system with location verification. Led code refactoring & team collaboration.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </p>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3 align="center">🏥 Olive ProHealth</h3>
-    <p align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.olive.olive">
-        <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-    </p>
-    <p align="center">
-      Healthcare app with doctor Q&A, prescription management, and nearby hospital locator using dynamic maps.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">📦 MGS Delivery</h3>
-    <p align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.mgsdelivery">
-        <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-    </p>
-    <p align="center">
-      Delivery management with barcode scanning, order assignment, and Firebase notifications.
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    </p>
-  </td>
+<td width="50%" valign="top">
+
+**Mobile**  
+`React Native` · `Flutter` · `Dart` · `Expo` · `Java` · `Kotlin` · `Swift`
+
+**Frontend**  
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind` · `Redux`
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & Cloud**  
+`Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Firebase` · `Supabase`
+
+**Tools & Architecture**  
+`Git` · `Docker` · `Figma` · `MVVM` · `Clean Architecture` · `REST APIs`
+
+</td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,typescript,nodejs,mongodb,firebase,nextjs,tailwind,docker,git&theme=dark" alt="Tech stack"/>
+</p>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
+## `//` Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Khedmah Delivery
+Multi-service food delivery with dine-out & pickup. Performance, UI/UX, and stability across platforms.
+
+`React Native` `TypeScript` `Firebase`
+
+[Play Store](https://play.google.com/store/apps/details?id=com.springtech.orderApp) · [App Store](https://apps.apple.com/om/app/khedmah-delivery/id6738427748)
+
+</td>
+<td width="33%" valign="top">
+
+### M-Attendance
+Real-time attendance with location verification. Led refactoring and feature delivery.
+
+`Java` `React Native` `iOS`
+
+[Play Store](https://play.google.com/store/apps/details?id=com.attendance.mokshasolutions) · [App Store](https://apps.apple.com/bn/app/m-attendance/id6443842046)
+
+</td>
+<td width="33%" valign="top">
+
+### Olive ProHealth
+Healthcare app — facility locator, doctor Q&A, prescriptions, and verified health blogs.
+
+`Flutter` `Dart` `Node.js`
+
+[Play Store](https://play.google.com/store/apps/details?id=com.olive.olive)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://www.faizanshaikh.dev/#projects">
+    <img src="https://img.shields.io/badge/View_all_projects_→-00ff88?style=flat-square&labelColor=0a0a0f&color=00ff88" alt="View all projects"/>
+  </a>
+</p>
+
+---
+
+## `//` GitHub Activity
 
 <div align="center">
-  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan2301&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan2301&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizan2301&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="30" /> Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-</div>
-
----
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Amazing Together!
+<img src="https://github-readme-stats.vercel.app/api?username=faizan2301&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=e0e0e0&ring_color=00ff88" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizan2301&theme=dark&hide_border=true&background=0a0a0f&stroke=1c1c2e&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=6b7280&sideNums=e0e0e0&dates=6b7280&currStreakNum=e0e0e0" height="165" alt="GitHub streak"/>
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan2301&bg_color=0a0a0f&color=00ff88&line=00ff88&point=00d4ff&area=true&area_color=00ff88&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizan2301&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/faizan2301/faizan2301/output/snake.svg" alt="Snake contribution animation" />
+
+---
+
+<div align="center">
+
+## `//` Let's Connect
+
+Have a project in mind? Let's build something impactful.
+
+<br/>
+
+<a href="mailto:hello@faizanshaikh.dev">
+  <img src="https://img.shields.io/badge/hello@faizanshaikh.dev-0a0a0f?style=flat-square&logo=gmail&logoColor=00ff88&labelColor=0a0a0f" alt="Email"/>
+</a>
+<a href="https://www.faizanshaikh.dev">
+  <img src="https://img.shields.io/badge/faizanshaikh.dev-0a0a0f?style=flat-square&logo=vercel&logoColor=00ff88&labelColor=0a0a0f" alt="Portfolio"/>
+</a>
 <a href="https://buymeacoffee.com/skfaizan23c">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0a0a0f?style=flat-square&logo=buy-me-a-coffee&logoColor=00ff88&labelColor=0a0a0f" alt="Buy me a coffee"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+`EMF.` · Frontend Engineer & Mobile Developer  
+© 2026 Mohammad Faizan Shaikh
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=80&section=footer" width="100%"/>
 
 </div>
