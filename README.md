@@ -36,7 +36,7 @@ const faizan = {
     role: "Mobile Application Developer",
     location: "India 🇮🇳",
     education: "M.E. Computer Science & Engineering",
-    experience: "3+ years",
+    experience: "4+ years",
     currentFocus: "Building scalable mobile solutions",
     
     dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
